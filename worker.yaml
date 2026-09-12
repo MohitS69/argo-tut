@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: worker 
-          image: dockercoins/worker:v0.1
+          image: dockercoins/worker:v2
